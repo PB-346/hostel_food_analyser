@@ -1,20 +1,35 @@
-# Welcome to your Lovable project
+# Hostel Food Quality Analyzer-“Because Students Deserve Better Food.”
 
-## Project info
+## Turning student voices into data-driven food quality insights 📊
 
-**URL**: https://yum-review-hub.lovable.app
+**🔗 Live Link :** https://yum-review-hub.lovable.app
 
-## How can I edit this code?
+## About The Project -
+Hostel Food Quality Analyzer is a crowd-powered feedback platform that collects, analyzes, and visualizes hostel mess food reviews in real-time.
+Instead of random complaints, we turn opinions into structured data.
 
-There are several ways of editing your application.
 
-**Use Lovable**
+## The Goal -
+ 🎯Improve food quality using real student feedback
+Bring transparency to hostel mess systems
+Create accountability through data
+“If the food is bad, the data will speak.”
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## Tech Stack -
+🌐 HTML
+🎨 CSS
+⚡ JavaScript
+🔥 Firebase (Database + Backend)
+📊 Data-based Rating System
+## Key Features-
+⭐ Rate food from 1 to 5
+📝 Submit detailed feedback
+📊 Live average rating calculation
+📈 Data-driven insights
+🔐 Secure backend integration
+📱 Responsive design
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
+## Use your preferred IDE
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
@@ -36,37 +51,6 @@ npm i
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
